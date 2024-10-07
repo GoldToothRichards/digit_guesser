@@ -6,7 +6,7 @@
 
 Digit Guesser is a web application that demonstrates machine learning inference taking place directly in the browser. It uses a Support Vector Machine (SVM) classifier to predict hand-drawn digits. The application is built with Vue.js and leverages Pyodide to run Python code, including scikit-learn, in the browser using WebAssembly. The application is served directly from the Internet Computer Blockchain.
 
-## ✨ Features
+## ✅ Features
 
 - Draw digits using an interactive canvas
 - Real-time prediction of drawn digits using a pre-trained SVM model
@@ -67,9 +67,10 @@ For questions or feedback, please reach out:
 - LinkedIn: [Jacob Crabtree](https://www.linkedin.com/in/jacob-crabtree-7ab72610a/)
 - Twitter: [@crabtr26](https://x.com/crabtr26)
 
-## 🙏 Acknowledgements
+## 🔗 Links and Resources
 
-- [Pyodide](https://pyodide.org/en/stable/) for enabling Python in the browser
-- [scikit-learn](https://scikit-learn.org/) for the machine learning algorithms
-- [Juno](https://juno.build) for providing the hosting and development platform
-- [Internet Computer](https://internetcomputer.org) for the underlying blockchain infrastructure
+- [Pyodide](https://pyodide.org/en/stable/) - Run Python in the browser
+- [scikit-learn](https://scikit-learn.org/) - Machine learning library for Python
+- [Juno](https://juno.build) - Web3 development platform
+- [Internet Computer](https://internetcomputer.org) - Blockchain network for smart contracts
+- [MNIST Dataset](http://yann.lecun.com/exdb/mnist/) - Handwritten digit database used for training
