@@ -11,6 +11,7 @@ Digit Guesser is a web application that demonstrates machine learning inference 
 - Draw digits using an interactive canvas
 - Real-time prediction of drawn digits using a pre-trained SVM model
 - Client-side machine learning powered by Pyodide
+- Served directly from the Internet Computer Blockchain
 
 ## 🛠️ Tech Stack
 
