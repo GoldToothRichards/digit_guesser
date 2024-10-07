@@ -70,8 +70,12 @@ For questions or feedback, please reach out:
 
 ## 🔗 Links and Resources
 
-- [Pyodide](https://pyodide.org/en/stable/) - Run Python in the browser
-- [scikit-learn](https://scikit-learn.org/) - Machine learning library for Python
-- [Juno](https://juno.build) - Web3 development platform
-- [Internet Computer](https://internetcomputer.org) - Blockchain network for smart contracts
-- [MNIST Dataset](http://yann.lecun.com/exdb/mnist/) - Handwritten digit database used for training
+- [Pyodide](https://pyodide.org/en/stable/): A Python distribution for the browser and Node.js based on WebAssembly. This project uses Pyodide to run Python code, including scikit-learn, directly in the browser.
+
+- [Juno](https://juno.build): The Web3 development platform used for hosting and deploying this application. Juno provides blockchain-based storage and hosting solutions on the Internet Computer.
+
+- [Internet Computer](https://internetcomputer.org): The underlying blockchain infrastructure powering this application. It provides a decentralized cloud platform for building and hosting applications like Digit Guesser.
+
+- [scikit-learn](https://scikit-learn.org/): A machine learning library for Python. In this project, it's used to train and deploy the SVM classifier for digit recognition.
+
+- [MNIST Dataset](http://yann.lecun.com/exdb/mnist/): The dataset used to train the SVM classifier in this project. It's a large database of handwritten digits commonly used for training various image processing systems.
