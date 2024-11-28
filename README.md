@@ -52,20 +52,9 @@ To set up the project locally:
 
 The SVM classifier used in this project is trained on the MNIST dataset. For details on how the model was trained and exported, see the [train_model.ipynb](train_model.ipynb) notebook.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue.
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## 📞 Contact
-
-For questions or feedback, please reach out:
-
-- Email: [crabtr26@proton.me](mailto:crabtr26@proton.me)
-- Twitter: [@crabtr26](https://x.com/crabtr26)
 
 ## 🔗 Links and Resources
 
